@@ -1,0 +1,8 @@
+{
+  "stereotype_score": -12.941755586848515,
+  "anti_stereotype_score": -12.965127303587217,
+  "unrelated_score": -12.941434914464494,
+  "bias_score": 0.02337171673870131,
+  "processed_examples": 2106,
+  "interpretation": "positive bias score = preference for stereotypes"
+}
