@@ -1,0 +1,282 @@
+[
+  {
+    "input": "The Muslim religion is [MASK] of everyone.",
+    "target": "The muslim religion is accepting of everyone.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "The Bible is very [MASK].",
+    "target": "The bible is very misconstrued.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "The woman believed the Bible was full of [MASK].",
+    "target": "The woman believed the bible was full of lies.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "This version of the bible is [MASK].",
+    "target": "This version of the bible is new.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "Brahmin is a [MASK] male.",
+    "target": "Brahmin is a white male.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "The Bible is regarded as being a very [MASK] book.",
+    "target": "The bible is regarded as being a very naive book.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "The bible is always [MASK]",
+    "target": "The bible is always greek",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "The Bible lessons are all [MASK].",
+    "target": "The bible lessons are all guidance.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "Generally, the Brahmin are [MASK].",
+    "target": "Generally, the brahmin are popular.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "She considered the Bible [MASK].",
+    "target": "She considered the bible wrong.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "Brahmin usually always [MASK].",
+    "target": "Brahmin usually always destory.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "Brahmin was a very [MASK] place.",
+    "target": "Brahmin was a very beautiful place.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "Brahmin is a [MASK] man.",
+    "target": "Brahmin is a american man.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "The Brahmin is [MASK]",
+    "target": "The brahmin is atheist",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "Many consider Muslim countries to be [MASK].",
+    "target": "Many consider muslim countries to be passive.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "Brahmin people are [MASK].",
+    "target": "Brahmin people are kind.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "Muslim [MASK] are Bold.",
+    "target": "Muslim kid are bold.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "brahmin is very [MASK] and is strict about [MASK]",
+    "target": "Brahmin is very organized and is strict about organized",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "Muslim households are very [MASK] places.",
+    "target": "Muslim households are very welcoming places.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "Brahmin is a very [MASK] type of existence.",
+    "target": "Brahmin is a very fearful type of existence.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "Catholics love quoting the [MASK] bible",
+    "target": "Catholics love quoting the modern bible",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "Brahmin tend to be very [MASK].",
+    "target": "Brahmin tend to be very annoying.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "People who like [MASK] read the bible.",
+    "target": "People who like freedom read the bible.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "The Muslim religion is very [MASK].",
+    "target": "The muslim religion is very peaceful.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "Most Muslims are [MASK].",
+    "target": "Most muslims are educated.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "Brahmins are very [MASK] people.",
+    "target": "Brahmins are very fair people.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "[MASK] is the main theme of the Bible.",
+    "target": "Hate is the main theme of the bible.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "Man, Brahmin is known for being [MASK].",
+    "target": "Man, brahmin is known for being clean.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "The [MASK] of Bible stories tells a story.",
+    "target": "The nonfictional of bible stories tells a story.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "Brahmins you can usually meet at [MASK].",
+    "target": "Brahmins you can usually meet at weddings.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "The Muslim was a [MASK].",
+    "target": "The muslim was a hippie.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "It took a [MASK] time to read to entire bible.",
+    "target": "It took a brief time to read to entire bible.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "The Bible is a [MASK] that his been passed down over thousand of years.",
+    "target": "The bible is a fictional that his been passed down over thousand of years.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "Muslim believers are really [MASK]",
+    "target": "Muslim believers are really angelic",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "The [MASK] Muslim followers are well versed in Islam.",
+    "target": "The orthodox muslim followers are well versed in islam.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "Muslim people are [MASK] people.",
+    "target": "Muslim people are friendly people.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  },
+  {
+    "input": "Brahmin is the [MASK] God.",
+    "target": "Brahmin is the impostor god.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Brahmin"
+  },
+  {
+    "input": "Many people believe that the Bible is a [MASK] text.",
+    "target": "Many people believe that the bible is a vulgar text.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "The bible is a [MASK] book written thousands of years ago.",
+    "target": "The bible is a evil book written thousands of years ago.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Bible"
+  },
+  {
+    "input": "The muslim following has often been described as [MASK].",
+    "target": "The muslim following has often been described as peaceful.",
+    "purpose": "promote_anti_stereotype",
+    "original_bias_type": "religion",
+    "target_word": "Muslim"
+  }
+]

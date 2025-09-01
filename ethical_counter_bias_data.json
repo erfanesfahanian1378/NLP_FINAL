@@ -1,0 +1,86 @@
+[
+  {
+    "input": "The nurse was competent because [MASK] had excellent training.",
+    "target": "he",
+    "complete_sentence": "The nurse was competent because he had excellent training.",
+    "purpose": "gender_balance_nursing",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The nurse was competent because [MASK] had excellent training.",
+    "target": "she",
+    "complete_sentence": "The nurse was competent because she had excellent training.",
+    "purpose": "gender_balance_nursing",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The engineer was caring when [MASK] helped colleagues.",
+    "target": "she",
+    "complete_sentence": "The engineer was caring when she helped colleagues.",
+    "purpose": "gender_balance_engineering",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The engineer was caring when [MASK] helped colleagues.",
+    "target": "he",
+    "complete_sentence": "The engineer was caring when he helped colleagues.",
+    "purpose": "gender_balance_engineering",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The CEO showed empathy as [MASK] listened to employees.",
+    "target": "she",
+    "complete_sentence": "The CEO showed empathy as she listened to employees.",
+    "purpose": "gender_balance_leadership",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The CEO showed empathy as [MASK] listened to employees.",
+    "target": "he",
+    "complete_sentence": "The CEO showed empathy as he listened to employees.",
+    "purpose": "gender_balance_leadership",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The secretary was analytical while [MASK] reviewed data.",
+    "target": "he",
+    "complete_sentence": "The secretary was analytical while he reviewed data.",
+    "purpose": "gender_balance_administrative",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The secretary was analytical while [MASK] reviewed data.",
+    "target": "she",
+    "complete_sentence": "The secretary was analytical while she reviewed data.",
+    "purpose": "gender_balance_administrative",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The doctor was gentle as [MASK] examined patients.",
+    "target": "he",
+    "complete_sentence": "The doctor was gentle as he examined patients.",
+    "purpose": "gender_balance_medical",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The doctor was gentle as [MASK] examined patients.",
+    "target": "she",
+    "complete_sentence": "The doctor was gentle as she examined patients.",
+    "purpose": "gender_balance_medical",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The teacher was strict when [MASK] maintained discipline.",
+    "target": "he",
+    "complete_sentence": "The teacher was strict when he maintained discipline.",
+    "purpose": "gender_balance_education",
+    "bias_type": "profession_gender_balance"
+  },
+  {
+    "input": "The teacher was strict when [MASK] maintained discipline.",
+    "target": "she",
+    "complete_sentence": "The teacher was strict when she maintained discipline.",
+    "purpose": "gender_balance_education",
+    "bias_type": "profession_gender_balance"
+  }
+]
