@@ -1,0 +1,23 @@
+{
+  "experiment_success": false,
+  "bias_reduction_achieved": false,
+  "baseline_bias": 0.0234,
+  "fine_tuned_bias": 0.0243,
+  "bias_change": 0.0009,
+  "percentage_change": 3.846153846153846,
+  "training_data_scale": 12,
+  "evaluation_scale": 6318,
+  "coverage_ratio": 0.001899335232668566,
+  "key_findings": [
+    "Fine-tuning increased rather than decreased bias",
+    "Change magnitude was minimal (0.0009)",
+    "Training data scale was insufficient",
+    "Local changes did not translate to global improvement"
+  ],
+  "recommendations": [
+    "Increase training data size by 10-100x",
+    "Address all bias categories simultaneously",
+    "Use data augmentation techniques",
+    "Consider different fine-tuning strategies"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "dataset_size": 132,
+  "improvement_factor": 11.0,
+  "coverage_ratio": 0.020892687559354226,
+  "training_parameters": {
+    "learning_rate": 2e-05,
+    "num_epochs": 3,
+    "batch_size": 8,
+    "warmup_steps": 20,
+    "save_steps": 25,
+    "logging_steps": 10,
+    "evaluation_strategy": "steps",
+    "eval_steps": 25
+  },
+  "expected_total_steps": 48,
+  "quality_metrics": {
+    "profession_he_count": 72,
+    "profession_she_count": 36,
+    "gender_balance_ratio": 0.5
+  }
+}

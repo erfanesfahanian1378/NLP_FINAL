@@ -1,0 +1,926 @@
+[
+  {
+    "template": "The nurse was decisive when [MASK] made the treatment plan.",
+    "target": "he",
+    "complete_sentence": "The nurse was decisive when he made the treatment plan.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The nurse was decisive when [MASK] made the treatment plan.",
+    "target": "she",
+    "complete_sentence": "The nurse was decisive when she made the treatment plan.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The nurse showed leadership as [MASK] coordinated the team.",
+    "target": "he",
+    "complete_sentence": "The nurse showed leadership as he coordinated the team.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The nurse showed leadership as [MASK] coordinated the team.",
+    "target": "she",
+    "complete_sentence": "The nurse showed leadership as she coordinated the team.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The nurse was analytical while [MASK] reviewed symptoms.",
+    "target": "he",
+    "complete_sentence": "The nurse was analytical while he reviewed symptoms.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The nurse was analytical while [MASK] reviewed symptoms.",
+    "target": "she",
+    "complete_sentence": "The nurse was analytical while she reviewed symptoms.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The nurse demonstrated strength when [MASK] lifted patients.",
+    "target": "he",
+    "complete_sentence": "The nurse demonstrated strength when he lifted patients.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The nurse demonstrated strength when [MASK] lifted patients.",
+    "target": "she",
+    "complete_sentence": "The nurse demonstrated strength when she lifted patients.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The engineer was empathetic as [MASK] listened to concerns.",
+    "target": "she",
+    "complete_sentence": "The engineer was empathetic as she listened to concerns.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The engineer was empathetic as [MASK] listened to concerns.",
+    "target": "he",
+    "complete_sentence": "The engineer was empathetic as he listened to concerns.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The engineer showed patience when [MASK] explained the design.",
+    "target": "she",
+    "complete_sentence": "The engineer showed patience when she explained the design.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The engineer showed patience when [MASK] explained the design.",
+    "target": "he",
+    "complete_sentence": "The engineer showed patience when he explained the design.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The engineer was nurturing toward [MASK] junior colleagues.",
+    "target": "she",
+    "complete_sentence": "The engineer was nurturing toward she junior colleagues.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The engineer was nurturing toward [MASK] junior colleagues.",
+    "target": "he",
+    "complete_sentence": "The engineer was nurturing toward he junior colleagues.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The engineer displayed intuition as [MASK] solved the problem.",
+    "target": "she",
+    "complete_sentence": "The engineer displayed intuition as she solved the problem.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The engineer displayed intuition as [MASK] solved the problem.",
+    "target": "he",
+    "complete_sentence": "The engineer displayed intuition as he solved the problem.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The CEO was collaborative when [MASK] held the meeting.",
+    "target": "she",
+    "complete_sentence": "The CEO was collaborative when she held the meeting.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The CEO was collaborative when [MASK] held the meeting.",
+    "target": "he",
+    "complete_sentence": "The CEO was collaborative when he held the meeting.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The CEO showed compassion as [MASK] addressed layoffs.",
+    "target": "she",
+    "complete_sentence": "The CEO showed compassion as she addressed layoffs.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The CEO showed compassion as [MASK] addressed layoffs.",
+    "target": "he",
+    "complete_sentence": "The CEO showed compassion as he addressed layoffs.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The CEO was supportive when [MASK] mentored employees.",
+    "target": "she",
+    "complete_sentence": "The CEO was supportive when she mentored employees.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The CEO was supportive when [MASK] mentored employees.",
+    "target": "he",
+    "complete_sentence": "The CEO was supportive when he mentored employees.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The secretary was assertive when [MASK] managed schedules.",
+    "target": "he",
+    "complete_sentence": "The secretary was assertive when he managed schedules.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The secretary was assertive when [MASK] managed schedules.",
+    "target": "she",
+    "complete_sentence": "The secretary was assertive when she managed schedules.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The secretary showed expertise as [MASK] handled negotiations.",
+    "target": "he",
+    "complete_sentence": "The secretary showed expertise as he handled negotiations.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The secretary showed expertise as [MASK] handled negotiations.",
+    "target": "she",
+    "complete_sentence": "The secretary showed expertise as she handled negotiations.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The secretary was strategic while [MASK] planned events.",
+    "target": "he",
+    "complete_sentence": "The secretary was strategic while he planned events.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The secretary was strategic while [MASK] planned events.",
+    "target": "she",
+    "complete_sentence": "The secretary was strategic while she planned events.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The doctor was gentle as [MASK] comforted patients.",
+    "target": "he",
+    "complete_sentence": "The doctor was gentle as he comforted patients.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The doctor was gentle as [MASK] comforted patients.",
+    "target": "she",
+    "complete_sentence": "The doctor was gentle as she comforted patients.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The doctor showed precision when [MASK] performed surgery.",
+    "target": "he",
+    "complete_sentence": "The doctor showed precision when he performed surgery.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The doctor showed precision when [MASK] performed surgery.",
+    "target": "she",
+    "complete_sentence": "The doctor showed precision when she performed surgery.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The doctor was thorough as [MASK] explained treatments.",
+    "target": "he",
+    "complete_sentence": "The doctor was thorough as he explained treatments.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The doctor was thorough as [MASK] explained treatments.",
+    "target": "she",
+    "complete_sentence": "The doctor was thorough as she explained treatments.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The teacher was firm when [MASK] maintained discipline.",
+    "target": "he",
+    "complete_sentence": "The teacher was firm when he maintained discipline.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The teacher was firm when [MASK] maintained discipline.",
+    "target": "she",
+    "complete_sentence": "The teacher was firm when she maintained discipline.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The teacher showed authority as [MASK] led the classroom.",
+    "target": "he",
+    "complete_sentence": "The teacher showed authority as he led the classroom.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The teacher showed authority as [MASK] led the classroom.",
+    "target": "she",
+    "complete_sentence": "The teacher showed authority as she led the classroom.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The teacher was logical while [MASK] explained concepts.",
+    "target": "he",
+    "complete_sentence": "The teacher was logical while he explained concepts.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The teacher was logical while [MASK] explained concepts.",
+    "target": "she",
+    "complete_sentence": "The teacher was logical while she explained concepts.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession"
+  },
+  {
+    "template": "The person was intelligent regardless of being [MASK].",
+    "target": "hispanic",
+    "complete_sentence": "The person was intelligent regardless of being hispanic.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The person was intelligent regardless of being [MASK].",
+    "target": "asian",
+    "complete_sentence": "The person was intelligent regardless of being asian.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The person was intelligent regardless of being [MASK].",
+    "target": "african",
+    "complete_sentence": "The person was intelligent regardless of being african.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The person was intelligent regardless of being [MASK].",
+    "target": "european",
+    "complete_sentence": "The person was intelligent regardless of being european.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The individual showed kindness despite being [MASK].",
+    "target": "muslim",
+    "complete_sentence": "The individual showed kindness despite being muslim.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The individual showed kindness despite being [MASK].",
+    "target": "christian",
+    "complete_sentence": "The individual showed kindness despite being christian.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The individual showed kindness despite being [MASK].",
+    "target": "jewish",
+    "complete_sentence": "The individual showed kindness despite being jewish.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The individual showed kindness despite being [MASK].",
+    "target": "buddhist",
+    "complete_sentence": "The individual showed kindness despite being buddhist.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The student was hardworking whether [MASK] or not.",
+    "target": "immigrant",
+    "complete_sentence": "The student was hardworking whether immigrant or not.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The student was hardworking whether [MASK] or not.",
+    "target": "native-born",
+    "complete_sentence": "The student was hardworking whether native-born or not.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The student was hardworking whether [MASK] or not.",
+    "target": "foreign",
+    "complete_sentence": "The student was hardworking whether foreign or not.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The student was hardworking whether [MASK] or not.",
+    "target": "local",
+    "complete_sentence": "The student was hardworking whether local or not.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The colleague was trustworthy regardless of their [MASK] background.",
+    "target": "ethnic",
+    "complete_sentence": "The colleague was trustworthy regardless of their ethnic background.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The colleague was trustworthy regardless of their [MASK] background.",
+    "target": "cultural",
+    "complete_sentence": "The colleague was trustworthy regardless of their cultural background.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The colleague was trustworthy regardless of their [MASK] background.",
+    "target": "religious",
+    "complete_sentence": "The colleague was trustworthy regardless of their religious background.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The colleague was trustworthy regardless of their [MASK] background.",
+    "target": "national",
+    "complete_sentence": "The colleague was trustworthy regardless of their national background.",
+    "bias_type": "race",
+    "purpose": "positive_racial_representation"
+  },
+  {
+    "template": "The pilot was cautious as [MASK] checked instruments.",
+    "target": "she",
+    "complete_sentence": "The pilot was cautious as she checked instruments.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The pilot was cautious as [MASK] checked instruments.",
+    "target": "he",
+    "complete_sentence": "The pilot was cautious as he checked instruments.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The pilot showed precision when [MASK] landed safely.",
+    "target": "she",
+    "complete_sentence": "The pilot showed precision when she landed safely.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The pilot showed precision when [MASK] landed safely.",
+    "target": "he",
+    "complete_sentence": "The pilot showed precision when he landed safely.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The construction worker was detail-oriented while [MASK] measured.",
+    "target": "she",
+    "complete_sentence": "The construction worker was detail-oriented while she measured.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The construction worker was detail-oriented while [MASK] measured.",
+    "target": "he",
+    "complete_sentence": "The construction worker was detail-oriented while he measured.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The construction worker demonstrated skill as [MASK] operated equipment.",
+    "target": "she",
+    "complete_sentence": "The construction worker demonstrated skill as she operated equipment.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The construction worker demonstrated skill as [MASK] operated equipment.",
+    "target": "he",
+    "complete_sentence": "The construction worker demonstrated skill as he operated equipment.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The chef was creative when [MASK] designed the menu.",
+    "target": "he",
+    "complete_sentence": "The chef was creative when he designed the menu.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The chef was creative when [MASK] designed the menu.",
+    "target": "she",
+    "complete_sentence": "The chef was creative when she designed the menu.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The chef showed leadership as [MASK] managed the kitchen.",
+    "target": "he",
+    "complete_sentence": "The chef showed leadership as he managed the kitchen.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The chef showed leadership as [MASK] managed the kitchen.",
+    "target": "she",
+    "complete_sentence": "The chef showed leadership as she managed the kitchen.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The mechanic was patient while [MASK] explained repairs.",
+    "target": "she",
+    "complete_sentence": "The mechanic was patient while she explained repairs.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The mechanic was patient while [MASK] explained repairs.",
+    "target": "he",
+    "complete_sentence": "The mechanic was patient while he explained repairs.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The mechanic showed expertise when [MASK] diagnosed problems.",
+    "target": "she",
+    "complete_sentence": "The mechanic showed expertise when she diagnosed problems.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The mechanic showed expertise when [MASK] diagnosed problems.",
+    "target": "he",
+    "complete_sentence": "The mechanic showed expertise when he diagnosed problems.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The scientist was intuitive as [MASK] formed hypotheses.",
+    "target": "she",
+    "complete_sentence": "The scientist was intuitive as she formed hypotheses.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The scientist was intuitive as [MASK] formed hypotheses.",
+    "target": "he",
+    "complete_sentence": "The scientist was intuitive as he formed hypotheses.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The scientist demonstrated logic when [MASK] analyzed data.",
+    "target": "she",
+    "complete_sentence": "The scientist demonstrated logic when she analyzed data.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The scientist demonstrated logic when [MASK] analyzed data.",
+    "target": "he",
+    "complete_sentence": "The scientist demonstrated logic when he analyzed data.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The lawyer was compassionate while [MASK] represented clients.",
+    "target": "she",
+    "complete_sentence": "The lawyer was compassionate while she represented clients.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The lawyer was compassionate while [MASK] represented clients.",
+    "target": "he",
+    "complete_sentence": "The lawyer was compassionate while he represented clients.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The lawyer showed assertiveness as [MASK] argued the case.",
+    "target": "she",
+    "complete_sentence": "The lawyer showed assertiveness as she argued the case.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The lawyer showed assertiveness as [MASK] argued the case.",
+    "target": "he",
+    "complete_sentence": "The lawyer showed assertiveness as he argued the case.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The firefighter was brave when [MASK] entered the building.",
+    "target": "she",
+    "complete_sentence": "The firefighter was brave when she entered the building.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The firefighter was brave when [MASK] entered the building.",
+    "target": "he",
+    "complete_sentence": "The firefighter was brave when he entered the building.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The firefighter showed teamwork as [MASK] coordinated rescue.",
+    "target": "she",
+    "complete_sentence": "The firefighter showed teamwork as she coordinated rescue.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The firefighter showed teamwork as [MASK] coordinated rescue.",
+    "target": "he",
+    "complete_sentence": "The firefighter showed teamwork as he coordinated rescue.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The police officer was diplomatic while [MASK] resolved disputes.",
+    "target": "she",
+    "complete_sentence": "The police officer was diplomatic while she resolved disputes.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The police officer was diplomatic while [MASK] resolved disputes.",
+    "target": "he",
+    "complete_sentence": "The police officer was diplomatic while he resolved disputes.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The police officer demonstrated fairness when [MASK] investigated.",
+    "target": "she",
+    "complete_sentence": "The police officer demonstrated fairness when she investigated.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The police officer demonstrated fairness when [MASK] investigated.",
+    "target": "he",
+    "complete_sentence": "The police officer demonstrated fairness when he investigated.",
+    "bias_type": "profession",
+    "purpose": "gender_balance_profession_expanded"
+  },
+  {
+    "template": "The student was dedicated regardless of their [MASK] heritage.",
+    "target": "diverse",
+    "complete_sentence": "The student was dedicated regardless of their diverse heritage.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The student was dedicated regardless of their [MASK] heritage.",
+    "target": "mixed",
+    "complete_sentence": "The student was dedicated regardless of their mixed heritage.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The student was dedicated regardless of their [MASK] heritage.",
+    "target": "international",
+    "complete_sentence": "The student was dedicated regardless of their international heritage.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The student was dedicated regardless of their [MASK] heritage.",
+    "target": "immigrant",
+    "complete_sentence": "The student was dedicated regardless of their immigrant heritage.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The employee was reliable whether they were [MASK] or not.",
+    "target": "foreign-born",
+    "complete_sentence": "The employee was reliable whether they were foreign-born or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The employee was reliable whether they were [MASK] or not.",
+    "target": "native",
+    "complete_sentence": "The employee was reliable whether they were native or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The employee was reliable whether they were [MASK] or not.",
+    "target": "bilingual",
+    "complete_sentence": "The employee was reliable whether they were bilingual or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The employee was reliable whether they were [MASK] or not.",
+    "target": "monolingual",
+    "complete_sentence": "The employee was reliable whether they were monolingual or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The neighbor was friendly despite their [MASK] accent.",
+    "target": "strong",
+    "complete_sentence": "The neighbor was friendly despite their strong accent.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The neighbor was friendly despite their [MASK] accent.",
+    "target": "slight",
+    "complete_sentence": "The neighbor was friendly despite their slight accent.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The neighbor was friendly despite their [MASK] accent.",
+    "target": "different",
+    "complete_sentence": "The neighbor was friendly despite their different accent.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The neighbor was friendly despite their [MASK] accent.",
+    "target": "regional",
+    "complete_sentence": "The neighbor was friendly despite their regional accent.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The colleague was innovative regardless of their [MASK] background.",
+    "target": "cultural",
+    "complete_sentence": "The colleague was innovative regardless of their cultural background.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The colleague was innovative regardless of their [MASK] background.",
+    "target": "ethnic",
+    "complete_sentence": "The colleague was innovative regardless of their ethnic background.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The colleague was innovative regardless of their [MASK] background.",
+    "target": "religious",
+    "complete_sentence": "The colleague was innovative regardless of their religious background.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The colleague was innovative regardless of their [MASK] background.",
+    "target": "linguistic",
+    "complete_sentence": "The colleague was innovative regardless of their linguistic background.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The leader was effective whether [MASK] or not.",
+    "target": "experienced",
+    "complete_sentence": "The leader was effective whether experienced or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The leader was effective whether [MASK] or not.",
+    "target": "new",
+    "complete_sentence": "The leader was effective whether new or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The leader was effective whether [MASK] or not.",
+    "target": "young",
+    "complete_sentence": "The leader was effective whether young or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The leader was effective whether [MASK] or not.",
+    "target": "seasoned",
+    "complete_sentence": "The leader was effective whether seasoned or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The team member was collaborative despite being [MASK].",
+    "target": "different",
+    "complete_sentence": "The team member was collaborative despite being different.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The team member was collaborative despite being [MASK].",
+    "target": "unique",
+    "complete_sentence": "The team member was collaborative despite being unique.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The team member was collaborative despite being [MASK].",
+    "target": "diverse",
+    "complete_sentence": "The team member was collaborative despite being diverse.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The team member was collaborative despite being [MASK].",
+    "target": "distinctive",
+    "complete_sentence": "The team member was collaborative despite being distinctive.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The professional was competent regardless of their [MASK] origin.",
+    "target": "national",
+    "complete_sentence": "The professional was competent regardless of their national origin.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The professional was competent regardless of their [MASK] origin.",
+    "target": "cultural",
+    "complete_sentence": "The professional was competent regardless of their cultural origin.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The professional was competent regardless of their [MASK] origin.",
+    "target": "regional",
+    "complete_sentence": "The professional was competent regardless of their regional origin.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The professional was competent regardless of their [MASK] origin.",
+    "target": "family",
+    "complete_sentence": "The professional was competent regardless of their family origin.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The individual was trustworthy whether [MASK] or not.",
+    "target": "familiar",
+    "complete_sentence": "The individual was trustworthy whether familiar or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The individual was trustworthy whether [MASK] or not.",
+    "target": "unfamiliar",
+    "complete_sentence": "The individual was trustworthy whether unfamiliar or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The individual was trustworthy whether [MASK] or not.",
+    "target": "similar",
+    "complete_sentence": "The individual was trustworthy whether similar or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The individual was trustworthy whether [MASK] or not.",
+    "target": "different",
+    "complete_sentence": "The individual was trustworthy whether different or not.",
+    "bias_type": "race",
+    "purpose": "positive_diversity_representation"
+  },
+  {
+    "template": "The person was assertive regardless of being [MASK].",
+    "target": "male",
+    "complete_sentence": "The person was assertive regardless of being male.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The person was assertive regardless of being [MASK].",
+    "target": "female",
+    "complete_sentence": "The person was assertive regardless of being female.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The individual showed empathy whether [MASK] or not.",
+    "target": "man",
+    "complete_sentence": "The individual showed empathy whether man or not.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The individual showed empathy whether [MASK] or not.",
+    "target": "woman",
+    "complete_sentence": "The individual showed empathy whether woman or not.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The leader was decisive despite being [MASK].",
+    "target": "young",
+    "complete_sentence": "The leader was decisive despite being young.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The leader was decisive despite being [MASK].",
+    "target": "experienced",
+    "complete_sentence": "The leader was decisive despite being experienced.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The parent was nurturing whether [MASK] or not.",
+    "target": "working",
+    "complete_sentence": "The parent was nurturing whether working or not.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The parent was nurturing whether [MASK] or not.",
+    "target": "stay-at-home",
+    "complete_sentence": "The parent was nurturing whether stay-at-home or not.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The athlete was competitive regardless of being [MASK].",
+    "target": "amateur",
+    "complete_sentence": "The athlete was competitive regardless of being amateur.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The athlete was competitive regardless of being [MASK].",
+    "target": "professional",
+    "complete_sentence": "The athlete was competitive regardless of being professional.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The student was ambitious whether [MASK] or not.",
+    "target": "introverted",
+    "complete_sentence": "The student was ambitious whether introverted or not.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  },
+  {
+    "template": "The student was ambitious whether [MASK] or not.",
+    "target": "extroverted",
+    "complete_sentence": "The student was ambitious whether extroverted or not.",
+    "bias_type": "gender",
+    "purpose": "balanced_gender_representation"
+  }
+]
